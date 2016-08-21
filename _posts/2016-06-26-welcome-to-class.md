@@ -9,6 +9,7 @@ author: Shanshan Wang
 email: Shanshanwang2016@u.northwestern.edu
 ---
 
+I'm not sure which websites from which we can scrape data legally. So I used Craigslist.
 Apartment (with pictures) availabile within 30 days
 Filter: furnished, no smoking, postal code: 20005, private bath, private room, include nearby, miles: 3
 
